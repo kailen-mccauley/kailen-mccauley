@@ -26,6 +26,3 @@ As a dedicated Computer Science student at Georgia Tech with a focus on Intellig
 
 - [LinkedIn](https://www.linkedin.com/in/kailen-mccauley)
 
-Feel free to explore my repositories, where you'll find hands-on demonstrations of my skills and a testament to my commitment to pushing the boundaries of what's possible in the realm of computer science.
-
-Interested in discussing collaborations or have questions? Let's connect and explore the exciting intersections of technology together!
