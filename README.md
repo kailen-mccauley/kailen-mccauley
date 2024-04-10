@@ -8,12 +8,7 @@
    <li>🌟 Enthusiastic about exploring the frontiers of computer vision and deep learning.</li>
 </ul>     
    
-
-
-
-
 ## I'm Currently Learning
-
 <ul>
    <li><strong>Memory Management</strong></li>
    <li><strong>Computer Networks</strong></li>
@@ -22,14 +17,12 @@
 </ul>
 
 ## Key Projects
-
 1. **Handwritten Digit Recognition**
    - Engineered a robust Convolutional Neural Network (CNN) achieving stellar accuracy in handwritten digit recognition.
 
 2. **COVID-19 Severity Prediction**
    - Currently spearheading a CNN project to develop a model for predicting the severity of COVID-19 symptoms via X-ray images.
   
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -69,14 +62,11 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
-
 <div style="text-align: center;">
     <img style="display: inline-block; width: 300px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=kailen-mccauley&show_icons=true&locale=en&rank_icon=github" alt="kailen-mccauley" />
     <img style="display: inline-block; width: 300px; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=kailen-mccauley&" alt="kailen-mccauley" />
     <img style="display: inline-block; width: 300px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kailen-mccauley&show_icons=true&locale=en&layout=compact" alt="kailen-mccauley" />
 </div>
-
-
 
 ## Lets Connect!
 <p align="left">
@@ -87,7 +77,3 @@
 <a href="mailto:kailen.mccauley@gmail.com">
    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRH9Akdy1E2lm9ibROqYvs72_zTDWp9cXbw&s" alt="k_lin0.0" height="40" width="40" /></a>
 </p>
-
-
-
-
