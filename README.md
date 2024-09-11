@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kailen Todd McCauley</h1>
-<h3 align="center">A computer science student passionate about the intersection of Computer Vision and Medecine </h3>
+<h3 align="center">A computer science student passionate about the intersection of Computer Vision and Medicine </h3>
 
 ## About Me
 <ul>
